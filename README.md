@@ -13,6 +13,7 @@ Tools & Platforms: Git, GitHub, VS Code, Postman
 Concepts: Object-Oriented Programming, Data Structures, REST APIs, Agile Development
 
 MY BADGES
+
 (![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml)
 
 
