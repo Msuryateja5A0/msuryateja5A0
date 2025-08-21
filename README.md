@@ -1,4 +1,4 @@
-hi i'm suryateja here 
+HI ! i'm suryateja here 
 
 TECHNICAL SKILLS
 
