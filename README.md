@@ -14,7 +14,7 @@ Concepts: Object-Oriented Programming, Data Structures, REST APIs, Agile Develop
 
 MY BADGES
 
-(![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml)
+![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml
 
 
  PROJECTS
